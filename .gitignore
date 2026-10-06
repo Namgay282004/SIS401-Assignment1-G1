@@ -1,0 +1,10 @@
+# Real credentials - never commit
+secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+
+# macOS
+.DS_Store
